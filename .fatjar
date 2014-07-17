@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 16 17:12:46 CST 2013
+onejar.license.required=true
+manifest.classpath=.  JDBC_ojdbc14.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=\u62DB\u6807\u5546-\u4E13\u5BB6\u7BA1\u7406\u7CFB\u7EDF.jar
+manifest.mergeall=true
+manifest.mainclass=ztb.Login
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
